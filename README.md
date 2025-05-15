@@ -54,9 +54,12 @@ This project showcases a robust distributed client-server architecture implement
    WATCHMODE_API_KEY=your_api_key_here
 
 3. Install Dependencies:
+    ```ini
     pip install -r requirements.txt
 4. Run the Servers for chatroom and server:
+    ```ini
     python server.py
     python chatrooms.py
 5. Run the client GUI :
+    ```ini
     python gui_client.py

@@ -1,0 +1,21 @@
+{
+    "aaaa": {
+        "password": "aaa",
+        "id": "bd9a707b-cb32-4ce1-afa8-0fbde8aac9de",
+        "favorites": [
+            138099,
+            3119016,
+            1450054,
+            1377874,
+            3119017,
+            1609053
+        ]
+    },
+    "bbbb": {
+        "password": "bbb",
+        "id": "a1f2c3b4-7c98-4209-b8b9-0b80b6d93b4f",
+        "favorites": [
+            1162637
+        ]
+    }
+}

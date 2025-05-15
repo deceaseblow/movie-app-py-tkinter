@@ -43,3 +43,20 @@ This project showcases a robust distributed client-server architecture implement
 - Post and view user reviews on movies.  
 - Real-time interaction with the server using socket communication.  
 - Thread-safe server to handle multiple simultaneous clients.
+
+## Setup Instructions
+
+1. Clone the repository.
+
+2. Create a `.env` file at the root with your Watchmode API key:
+
+   ```ini
+   WATCHMODE_API_KEY=your_api_key_here
+
+3. Install Dependencies:
+    pip install -r requirements.txt
+4. Run the Servers for chatroom and server:
+    python server.py
+    python chatrooms.py
+5. Run the client GUI :
+    python gui_client.py

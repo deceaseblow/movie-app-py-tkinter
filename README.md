@@ -59,7 +59,7 @@ This project showcases a robust distributed client-server architecture implement
 4. Run the Servers for chatroom and server:
     ```ini
     python server.py
-    python chatrooms.py
+    python chatserver.py
 5. Run the client GUI :
     ```ini
     python gui_client.py

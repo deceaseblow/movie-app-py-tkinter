@@ -51,7 +51,7 @@ This project showcases a robust distributed client-server architecture implement
 2. Create a `.env` file at the root with your Watchmode API key:
 
    ```ini
-   WATCHMODE_API_KEY=your_api_key_here
+   API_KEY=your_api_key_here
 
 3. Install Dependencies:
     ```ini
